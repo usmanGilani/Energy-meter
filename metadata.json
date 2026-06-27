@@ -1,0 +1,6 @@
+{
+  "name": "Energy Monitor Pro",
+  "description": "Professional SCADA-style electrical monitoring app featuring real-time telemetry, history charts, anomaly alerts, and customizable power limits.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
